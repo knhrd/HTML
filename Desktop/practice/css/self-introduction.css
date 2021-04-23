@@ -1,0 +1,77 @@
+body{
+    padding: 5px;
+    background-color: rgb(243, 239, 239);
+}
+div.header{
+    background-image: url("写真\ホワイト.jpg");
+    height: 200px;
+    width:auto;
+    color: indianred;
+    font-size:  50pt;
+    font-weight: lighter;
+    font-family: cursive;
+}
+div.abata{
+    background-image: url("写真\アバター.png") ;
+    height: auto;
+    width: auto;
+}
+
+h2{
+    color: palevioletred;
+    font-weight: lighter;
+    font-family: 'Mv Boli';
+}
+
+ul{
+    overflow-wrap: normal;
+    font-family: 'script';
+}
+p.work{
+    overflow-wrap: normal;
+    font-family: 'script';
+}
+li{
+    word-break: normal;
+}
+
+div.like{
+    column-count: 3;
+}
+div.top{
+    background-image: url("practice/写真/ホワイト.jpg");
+    height: 20px;
+    width: 100px;
+}
+div.about{
+    column-count: 2;
+}
+
+h3{
+    font-family: 'Mv Boli';
+    color: rgb(236, 140, 240);
+    font-weight: lighter;
+
+}
+img.s{
+    height: 200px;
+    width: 480px;
+}
+img.v{
+    height: 200px;
+    width: 480px;
+}
+img.j{
+    height: 200px;
+    width: 450px;
+}
+
+img.h{
+    height: 500px;
+    width: 100%;
+}
+img.a{
+    height: 400px;
+    width: 200px;
+    position: initial;
+}
