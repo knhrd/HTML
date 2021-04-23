@@ -37,4 +37,4 @@ const mame = "田中太郎";
 
 age = age + 2;
 
-console.log(`${name}さんの年齢は${age}です`)
+console.log(`${name}さんの年齢は${age}です`);
